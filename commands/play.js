@@ -8,7 +8,7 @@ const channelInfo = {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
             newsletterJid: "120363407561123100@newsletter",
-            newsletterName: "RIFT-MD",
+            newsletterName: "MISTER-MD",
             serverMessageId: -1
         }
     }
@@ -191,7 +191,7 @@ module.exports = async (sock, m, args) => {
                     ...channelInfo.contextInfo,
                     externalAdReply: {
                         title: title,
-                        body: "RIFT-MD MUSIC",
+                        body: "MISTER-MD MUSIC",
                         thumbnailUrl: thumb,
                         sourceUrl: youtubeUrl,
                         mediaType: 1,
