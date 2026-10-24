@@ -1,7 +1,7 @@
 {
-  "name": "rift-md",
+  "name": "mister-md",
   "version": "2.0.0",
-  "description": "WhatsApp MD Bot Stable - RIFT-MD",
+  "description": "WhatsApp MD Bot Stable - MISTER-MD",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
