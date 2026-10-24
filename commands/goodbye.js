@@ -1,5 +1,5 @@
 // ======================================================
-// GOODBYE COMMAND - RIFT-MD
+// GOODBYE COMMAND - MISTER-MD
 // .goodbye on / .goodbye off
 // ======================================================
 
