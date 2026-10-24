@@ -12,7 +12,7 @@ const path = require("path");
 const settings = require("./settings");
 
 // ======================================================
-// RIFT-MD UPTIME SERVER
+// MISTER-MD UPTIME SERVER
 // ======================================================
 
 const startServer = (port) => {
@@ -21,11 +21,11 @@ const startServer = (port) => {
             "Content-Type": "text/plain"
         });
 
-        res.end("RIFT-MD IS ONLINE");
+        res.end("MISTER-MD IS ONLINE");
     });
 
     server.listen(port, () => {
-        console.log(`🌐 RIFT-MD server running on port ${port}`);
+        console.log(`🌐 MISTER-MD server running on port ${port}`);
     });
 
     server.on("error", (e) => {
@@ -331,7 +331,7 @@ async function startBot() {
                     "@s.whatsapp.net";
 
                 console.log(
-                    "\n🎊 RIFT-MD IS CONNECTED!"
+                    "\n🎊 MISTER-MD IS CONNECTED!"
                 );
 
                 const channelInfo = {
@@ -342,7 +342,7 @@ async function startBot() {
                             newsletterJid:
                                 "120363407561123100@newsletter",
                             newsletterName:
-                                "RIFT-MD",
+                                "MISTER-MD",
                             serverMessageId: -1
                         }
                     }
@@ -355,11 +355,11 @@ async function startBot() {
                         {
                             image: {
                                 url:
-                                    "https://files.catbox.moe/vv674d.jpg"
+                                    "https://files.catbox.moe/jk9nuf.png"
                             },
 
                             caption:
-                                `╭━━━〔 🤖 *RIFT-MD STATUS* 〕━━━⬣\n` +
+                                `╭━━━〔 🤖 *MISTER-MD STATUS* 〕━━━⬣\n` +
                                 `┃ ✨ *Bot:* Online & Ready!\n` +
                                 `┃ 🚀 *Status:* Fully Connected\n` +
                                 `┃ ⚡ *Mode:* Active\n` +
