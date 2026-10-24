@@ -2,15 +2,15 @@ module.exports = async (sock, m) => {
     const chatId = m.key.remoteJid;
     
     // Developer configuration details
-    const ownerNumber = "50948247470"; 
-    const devName = "WeedDev"; 
+    const ownerNumber = "50940217685"; 
+    const devName = "MISTERDev"; 
     const ownerJid = ownerNumber + '@s.whatsapp.net';
 
     // 1. Create the VCard (Contact Card) format
     const vcard = 'BEGIN:VCARD\n'
         + 'VERSION:3.0\n' 
         + `FN:${devName}\n` 
-        + `ORG:RIFT-MD Bot Developer;\n`
+        + `ORG:MISTER-MD Bot Developer;\n`
         + `TEL;type=CELL;type=VOICE;waid=${ownerNumber}:+${ownerNumber}\n`
         + 'END:VCARD';
 
@@ -31,10 +31,10 @@ module.exports = async (sock, m) => {
         );
 
         // 3. Professional Information Message with sleek box style
-        const ownerMessage = `╭━━━〔 *RIFT-MD DEVELOPER* 〕━━━⡱
+        const ownerMessage = `╭━━━〔 *MISTER-MD DEVELOPER* 〕━━━⡱
 ┃ 👤 *Name:* ${devName}
 ┃ 📱 *WhatsApp:* wa.me/${ownerNumber}
-┃ 🤖 *Bot:* RIFT-MD
+┃ 🤖 *Bot:* MISTER-MD
 ╰━━━━━━━━━━━━━━━━━━━━⬣
 
 _💡 Tap the contact card above to save or message directly._`.trim();
