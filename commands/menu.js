@@ -58,7 +58,7 @@ module.exports = async (sock, m, args) => {
         await sock.sendMessage(chatId, { text: "⚡ Loading menu..." }, { quoted: m });
 
         const menu = `
-*╭┈───〔 𝐑𝐈𝐅𝐓-𝐌𝐃 〕┈───⊷*
+*╭┈───〔 MISTER-𝐌𝐃 〕┈───⊷*
 *├▢ 🤖 ᴏᴡɴᴇʀ:* ᴡᴇᴇᴅ ᴛᴇᴄʜ
 *├▢ 👤 ᴜsᴇʀ:* ${pushName}
 *├▢ 📜 ᴄᴏᴍᴍᴀɴᴅs:* ${totalCommands}
@@ -68,7 +68,7 @@ module.exports = async (sock, m, args) => {
 *├▢ 🏷️ ᴠᴇʀsɪᴏɴ:* 2.0.0
 *╰───────────────────⊷*
 ${menuCategoriesText}
-> *©️ 𝓹𝓸𝔀𝓮𝓻𝓮𝓭 𝓫𝔂 𝔀𝓮𝓮𝓭 𝓽𝓮ᑦ𝒽*
+> *©️ 𝓹𝓸𝔀𝓮𝓻𝓮𝓭 𝓫𝔂 mister 𝓽𝓮ᑦ𝒽*
     `.trim();
 
         const channelInfo = {
@@ -78,14 +78,14 @@ ${menuCategoriesText}
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: "120363407561123100@newsletter",
-                    newsletterName: "RIFT-MD OFFICIAL",
+                    newsletterName: "MISTER-MD OFFICIAL",
                     serverMessageId: -1
                 }
             }
         };
 
         await sock.sendMessage(chatId, {
-            image: { url: "https://files.catbox.moe/vv674d.jpg" },
+            image: { url: "https://files.catbox.moe/jk9nuf.png" },
             caption: menu,
             ...channelInfo
         }, { quoted: m });
