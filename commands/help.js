@@ -9,7 +9,7 @@ module.exports = async (sock, m) => {
 ┃ Please check the available features below:
 ┃
 ┃ 📜 *Command:* \`.menu\`
-┃ 🤖 *Bot:* \`RIFT-MD\`
+┃ 🤖 *Bot:* \`MISTER-MD\`
 ╰━━━━━━━━━━━━━━━━━━━━⬣
 
 > _Reply with *\.menu* to explore all my features._ 💜`.trim();
@@ -22,10 +22,10 @@ module.exports = async (sock, m) => {
             forwardingScore: 999, // Gives it an "Official / Forwarded" look
             isForwarded: true,
             externalAdReply: {
-                title: "👑 RIFT-MD HELP CENTER 👑",
+                title: "👑 MISTER-MD HELP CENTER 👑",
                 body: "Tap here to explore the command list",
-                thumbnailUrl: "https://files.catbox.moe/vv674d.jpg",
-                sourceUrl: "https://whatsapp.com/channel/0029Vb2J9C91dAw7vxA75y2V",
+                thumbnailUrl: "https://files.catbox.moe/jk9nuf.png",
+                sourceUrl: "https://whatsapp.com/channel/0029Vb8oizBBKfi9ZF3urZ29",
                 mediaType: 1,
                 renderLargerThumbnail: true // Makes the image appear large
             }
