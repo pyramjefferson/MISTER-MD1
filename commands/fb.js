@@ -77,7 +77,7 @@ module.exports = async (sock, m, args) => {
       `┃   🎬  *FB DOWNLOADER* \n` +
       `┠━━━━━━━━━━━━━━━━━━┫\n` +
       `┃ ✅ *Status:* Success\n` +
-      `┃ 👑 *Bot:* RIFT-MD\n` +
+      `┃ 👑 *Bot:* MISTER-MD\n` +
       `┃ 👤 *Requested by:* @${m.key.participant ? m.key.participant.split('@')[0] : m.key.remoteJid.split('@')[0]}\n` +
       `┗━━━━━━━━━━━━━━━━━━┛`;
 
