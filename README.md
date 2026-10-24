@@ -1,7 +1,7 @@
 <div style="background-color: #0b0f19; padding: 25px; border-radius: 12px; border: 1px solid #00ffcc55; font-family: 'Share Tech Mono', monospace;">
 
   <p align="center">
-    <img src="https://files.catbox.moe/vv674d.jpg" width="220" style="border-radius: 50%; border: 2px solid #00FFCC; box-shadow: 0 0 15px rgba(0,255,204,0.5);" alt="RIFT-MD Logo">
+    <img src="https://files.catbox.moe/jk9nuf.png" width="220" style="border-radius: 50%; border: 2px solid #00FFCC; box-shadow: 0 0 15px rgba(0,255,204,0.5);" alt="RIFT-MD Logo">
   </p>
 
   <h1 align="center">
@@ -9,7 +9,7 @@
   </h1>
 
   <p align="center" style="color: #00ffcc; font-size: 13px; letter-spacing: 2px; margin-top: 15px; text-shadow: 0 0 8px rgba(0,255,204,0.4);">
-    ⚡ POWERED BY WEED-TECH• ULTIMATE EXPERIENCE ⚡
+    ⚡ POWERED BY MISTER-TECH• ULTIMATE EXPERIENCE ⚡
   </p>
 
 </div>
@@ -17,7 +17,7 @@
 <div style="background-color: #0d1117; padding: 25px; border-radius: 12px; border: 1px solid #30363d; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
 
-🛡•••RIFT-MD is a WhatsApp MD bot built on top of the Baileys library. It is designed to be fast, lightweight, and easy to customize without touching the core code. This project is fully {open source} — you are free to modify it, rebrand it, and create your own bot from this codebase for free, without needing any permission from anyone. All commands such as menu, alive, antilink, play, sticker, and the overall structure are written in a way that makes customization as easy as possible😎.
+🛡•••MISTER-MD is a WhatsApp MD bot built on top of the Baileys library. It is designed to be fast, lightweight, and easy to customize without touching the core code. This project is fully {open source} — you are free to modify it, rebrand it, and create your own bot from this codebase for free, without needing any permission from anyone. All commands such as menu, alive, antilink, play, sticker, and the overall structure are written in a way that makes customization as easy as possible😎.
 
 
 ⭕  DEPLOY ON [ PANEL KATABUMP ]
@@ -31,7 +31,7 @@
 ## 🔗 Connect With Us
 
 ### Project Owner: Dev Weed
-<a href='https://wa.me/+50939032060?text=*_Hello+Dev Weed👋_*' target="_blank">
+<a href='https://wa.me/+50940217685?text=*_Hello+Dev Weed👋_*' target="_blank">
   <img alt='WhatsApp' src='https://img.shields.io/badge/Contact_Owner-0033CC?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 
@@ -52,7 +52,7 @@
     <a href="https://chat.whatsapp.com/H1rZtyq3l613WfqU7MzbmX" target="_blank" style="margin-right: 8px;">
       <img src="https://img.shields.io/badge/Join_Group-00E676?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Group"/>
     </a>
-    <a href="https://whatsapp.com/channel/0029Vb2J9C91dAw7vxA75y2V" target="_blank">
+    <a href="https://whatsapp.com/channel/0029Vb8oizBBKfi9ZF3urZ29" target="_blank">
       <img src="https://img.shields.io/badge/Join_Channel-FF4081?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel"/>
     </a>
   </p>
