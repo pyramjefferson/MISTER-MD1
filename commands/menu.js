@@ -59,7 +59,7 @@ module.exports = async (sock, m, args) => {
 
         const menu = `
 *╭┈───〔 MISTER-𝐌𝐃 〕┈───⊷*
-*├▢ 🤖 ᴏᴡɴᴇʀ:* ᴡᴇᴇᴅ ᴛᴇᴄʜ
+*├▢ 🤖 ᴏᴡɴᴇʀ:* MISTER ᴛᴇᴄʜ
 *├▢ 👤 ᴜsᴇʀ:* ${pushName}
 *├▢ 📜 ᴄᴏᴍᴍᴀɴᴅs:* ${totalCommands}
 *├▢ ⏱️ ʀᴜɴᴛɪᴍᴇ:* ${uptime}
@@ -68,7 +68,7 @@ module.exports = async (sock, m, args) => {
 *├▢ 🏷️ ᴠᴇʀsɪᴏɴ:* 2.0.0
 *╰───────────────────⊷*
 ${menuCategoriesText}
-> *©️ 𝓹𝓸𝔀𝓮𝓻𝓮𝓭 𝓫𝔂 mister 𝓽𝓮ᑦ𝒽*
+> *╰‿╯⚡ ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴹᴵˢᵀᴱᴿ ᵀᴱᶜᴴ ⚡╰‿╯*
     `.trim();
 
         const channelInfo = {
@@ -77,7 +77,7 @@ ${menuCategoriesText}
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: "120363407561123100@newsletter",
+                    newsletterJid: "120363413121615710@newsletter",
                     newsletterName: "MISTER-MD OFFICIAL",
                     serverMessageId: -1
                 }
