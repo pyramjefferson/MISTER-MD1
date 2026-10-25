@@ -2,8 +2,8 @@ module.exports = {
   // 🤖 BASIC INFO
   botName: "MISTER-MD 👑",
   ownerName: "mister dev",
-  ownerNumber: "50940217685",
-  sudoNumbers: ["50940217685"],
+  ownerNumber: "50955231160",
+  sudoNumbers: ["50955231160"],
   prefix: ".",
   version: "2.0.0",
   
